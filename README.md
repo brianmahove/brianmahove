@@ -67,3 +67,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brianmahove&show_icons=true&locale=en" alt="brianmahove" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brianmahove&" alt="brianmahove" /></p>
+
+[![brianmahove's GitHub | Languages Over Time](https://stats.quira.sh/brianmahove/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=brianmahove)
+[![brianmahove's GitHub | Stats](https://stats.quira.sh/brianmahove/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=brianmahove)
