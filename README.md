@@ -7,13 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/brianmahove" target="blank"><img src="https://img.shields.io/twitter/follow/brianmahove?logo=twitter&style=for-the-badge" alt="brianmahove" /></a> </p>
 
-- 🔭 I’m currently working on **dynamic church app**
+- 🔭 I’m currently working on **AgriXpert: A smart farming app**
 
 - 🌱 I’m currently learning **advanced techniques in mobile development languages such as Dart, Swift, Kotlin, and Java to further expand my skill set.**
 
 - 👯 I’m looking to collaborate on **innovative projects that leverage technology to enhance community engagement and connectivity.**
-
-- 🤝 I’m looking for help with **car rental app**
 
 - 👨‍💻 All of my projects are available at [www.brianmahove.dev](www.brianmahove.dev)
 
@@ -23,7 +21,7 @@
 
 - 📄 Know about my experiences [brian.dev](brian.dev)
 
-- ⚡ Fun fact **I built my first mobile app when I was just 15 years old!**
+- ⚡ Fun fact **I built my first mobile app when I was just 13 years old!**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
