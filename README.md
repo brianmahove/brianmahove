@@ -81,9 +81,11 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/brianmahove"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="brianmahove" /></a><a href="https://ko-fi.com/brianmahove"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="brianmahove" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brianmahove&show_icons=true&locale=en&layout=compact" alt="brianmahove" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=brianmahove&show_icons=true&locale=en&layout=compact" alt="brianmahove" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brianmahove&show_icons=true&locale=en" alt="brianmahove" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brianmahove&" alt="brianmahove" /></p>
+
+<!-- GitHub Stats (All Centered) -->
 
