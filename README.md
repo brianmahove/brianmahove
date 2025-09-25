@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Brian</h1>
-<h3 align="center">Final Year Computer Science Student | Passionate Innovator in Machine Learning and App Development | Aspiring Tech Trailblazer</h3>
+<h3 align="center">Computer Science Graduate | Machine Learning • Artificial Intelligence • Flutter • React Native • Python • Node.js • JavaScript • Web Development • Mobile App Development • Git • SQL & NoSQL Databases | Aspiring Tech Trailblazer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brianmahove&label=Profile%20views&color=0e75b6&style=flat" alt="brianmahove" /> </p>
 
