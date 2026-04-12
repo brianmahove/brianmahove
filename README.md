@@ -28,7 +28,7 @@
 
 ## ⚡ Who Am I
 
-```python
+```
 class Brian:
     name        = "Brian Mahove"
     location    = "Harare, Zimbabwe 🇿🇼"
