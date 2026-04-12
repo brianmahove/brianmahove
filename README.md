@@ -22,7 +22,6 @@
 [![Email](https://img.shields.io/badge/Email-%23EA4335.svg?style=flat-square&logo=gmail&logoColor=white)](mailto:mahovebrian@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=brianmahove&color=00FFB3&style=flat-square&label=Visitors)](https://github.com/brianmahove)
 
-</div>
 
 ---
 
