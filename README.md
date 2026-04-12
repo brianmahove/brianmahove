@@ -1,14 +1,6 @@
 <div align="center">
 
-```
-██████╗ ██████╗ ██╗ █████╗ ███╗   ██╗
-██╔══██╗██╔══██╗██║██╔══██╗████╗  ██║
-██████╔╝██████╔╝██║███████║██╔██╗ ██║
-██╔══██╗██╔══██╗██║██╔══██║██║╚██╗██║
-██████╔╝██║  ██║██║██║  ██║██║ ╚████║
-╚═════╝ ╚═╝  ╚═╝╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
-           M A H O V E
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFB3,100:0077B5&height=200&section=header&text=Brian%20Mahove&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=CS%20Graduate%20·%20AI%2FML%20Engineer%20·%20Full-Stack%20%26%20Mobile%20Developer&descAlignY=58&descSize=16&animation=fadeIn" />
 
 ### CS Graduate · AI/ML Engineer · Full-Stack & Mobile Developer
 **Building intelligent systems from Harare, Zimbabwe 🇿🇼 — since age 13.**
@@ -22,12 +14,13 @@
 [![Email](https://img.shields.io/badge/Email-%23EA4335.svg?style=flat-square&logo=gmail&logoColor=white)](mailto:mahovebrian@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=brianmahove&color=00FFB3&style=flat-square&label=Visitors)](https://github.com/brianmahove)
 
+</div>
 
 ---
 
 ## ⚡ Who Am I
 
-```
+```python
 class Brian:
     name        = "Brian Mahove"
     location    = "Harare, Zimbabwe 🇿🇼"
