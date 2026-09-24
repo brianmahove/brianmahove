@@ -31,6 +31,11 @@ jobs:
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Streak card
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 scripts/streak.py "${{ github.repository_owner }}" profile/streak.svg
+
       - name: Commit cards
         run: |
           git config user.name "github-actions[bot]"
