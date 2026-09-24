@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="340" height="56" viewBox="0 0 340 56" role="img" aria-labelledby="t d">
+  <title id="t">Email Brian</title>
+  <desc id="d">Email mahovebrian@gmail.com</desc>
+  <style>
+    text { font-family: 'Segoe UI', system-ui, -apple-system, Helvetica, Arial, sans-serif; }
+    .mono { font-family: 'Courier New', Courier, monospace; }
+    
+    .b { animation: glow 2.4s ease-in-out infinite; }
+    @keyframes glow { 0%,100% { opacity: .9; } 50% { opacity: 1; } }
+    @media (prefers-reduced-motion: reduce) { .b { animation: none; } }
+    
+  </style>
+<g class="b">
+  <rect x="2" y="2" width="336" height="52" rx="26" fill="#00FFB3"/>
+  <g transform="translate(34,28)" fill="none" stroke="#062018" stroke-width="2" stroke-linejoin="round"><rect x="-12" y="-9" width="24" height="18" rx="3"/><path d="M-12,-6 L0,3 L12,-6"/></g>
+  <text x="196" y="34" text-anchor="middle" font-size="16" font-weight="800" fill="#062018">mahovebrian@gmail.com</text>
+</g>
+</svg>

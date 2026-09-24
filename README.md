@@ -142,7 +142,11 @@ Tylliq is my own point-of-sale product. Each device keeps its own local database
 
 <div align="center">
 
-<a href="mailto:mahovebrian@gmail.com"><img src="assets/contact.svg" width="100%" alt="Need a system built for your business? Email mahovebrian@gmail.com" /></a>
+<img src="assets/contact.svg" width="100%" alt="Need a system built for your business? POS, ERP, payments or a mobile app, or a conversation about a role." />
+
+<a href="mailto:mahovebrian@gmail.com"><img src="assets/btn-email.svg" height="56" alt="Email mahovebrian@gmail.com" /></a>
+&nbsp;&nbsp;
+<a href="https://wa.me/263778686550"><img src="assets/btn-whatsapp.svg" height="56" alt="Chat on WhatsApp: +263 778 686 550" /></a>
 
 <br/>
 
