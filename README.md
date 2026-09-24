@@ -141,6 +141,8 @@ Tylliq is my own point-of-sale product. Each device keeps its own local database
 <div align="center">
   <img src="profile/stats.svg" height="180" alt="Brian's GitHub stats" />
   <img src="profile/top-langs.svg" height="180" alt="Brian's top languages" />
+  <br/>
+  <img src="https://streak-stats.demolab.com/?user=brianmahove&theme=github-dark-blue&hide_border=true&ring=00FFB3&fire=00FFB3&currStreakLabel=00FFB3" alt="Brian's GitHub contribution streak" />
 </div>
 
 ## Contact
