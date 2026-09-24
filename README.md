@@ -19,12 +19,20 @@
 
 ---
 
+<div align="center">
+
+<img src="assets/tylliq-receipt-printer.svg" width="720" alt="Animated receipt printing out Brian Mahove's systems: Tylliq POS, company management, airtime top-up, multi-branch POS, butchery cloud POS and fleet rental" />
+
+</div>
+
+---
+
 ## ⚡ About Me
 
 ```python
 class Brian:
     name      = "Brian Mahove"
-    location  = "Harare, Zimbabwe 🇿🇼"
+    location  = "Harare, Zimbabwe"
     education = "BSc (Hons) Computer Science, University of Zimbabwe (2025)"
 
     roles = {
@@ -40,7 +48,7 @@ class Brian:
     ]
 
     started_coding_at = 13
-    open_to = "Client projects • Remote roles • Collaborations"
+    open_to = "Client projects, Remote roles, Collaborations"
 ```
 
 These days most of my work is for businesses: systems that handle money, stock, staff and approvals, and have to keep working when the internet doesn't. I run Vizion Technologies, a small software agency, and I'm building Tylliq, my own point-of-sale product.
@@ -129,7 +137,8 @@ These days most of my work is for businesses: systems that handle money, stock, 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="github-metrics.svg" alt="Brian's GitHub metrics" />
+  <img src="profile/stats.svg" height="180" alt="Brian's GitHub stats" />
+  <img src="profile/top-langs.svg" height="180" alt="Brian's top languages" />
 </div>
 
 ---
