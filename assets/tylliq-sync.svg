@@ -1,4 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="900" height="480" viewBox="0 0 900 480" role="img" aria-labelledby="t d">
+  <!-- &#169; 2026 Brian Mahove. All rights reserved. Copying or reuse without written permission is prohibited. ID: bm-8ced576ca88a -->
+  <metadata id="bm-8ced576ca88a">&#169; 2026 Brian Mahove. All rights reserved. Copying or reuse without written permission is prohibited. ID: bm-8ced576ca88a</metadata>
   <title id="t">How Tylliq syncs</title>
   <desc id="d">Diagram of three Tylliq devices, each with its own local SQLite database, staying in sync through the cloud, over the local network phone to phone, or by passing a .tyq file. A separate license center issues and checks licence keys.</desc>
   <defs>
@@ -61,4 +63,6 @@
 <text x="582" y="392" text-anchor="middle" font-size="11" fill="#FFB84D">.tyq file</text>
 <text x="450" y="440" text-anchor="middle" font-size="16" font-weight="700" fill="#e6edf3">Sell first. Sync whenever.</text>
 <text x="450" y="463" text-anchor="middle" font-size="12" fill="#8b98a9">Every device keeps its own database. Only licensing needs the internet.</text>
+
+  <text x="880" y="472" text-anchor="end" font-size="11" fill="#8b98a9" fill-opacity="0.55">&#169; Brian Mahove</text>
 </svg>

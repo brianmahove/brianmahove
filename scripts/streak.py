@@ -1,4 +1,6 @@
-"""Generate profile/streak.svg from the GitHub GraphQL contribution calendar.
+"""Copyright (c) 2026 Brian Mahove. All rights reserved. ID: bm-eb8a7cb2fba7
+
+Generate profile/streak.svg from the GitHub GraphQL contribution calendar.
 
 Usage: GITHUB_TOKEN=... python scripts/streak.py <login> <output.svg>
 
@@ -83,6 +85,8 @@ def render(total, first, last, cur, cur_rng, best, best_rng):
     green, txt, dim = "#00FFB3", "#e6edf3", "#8b98a9"
     ring = "inline" if cur else "none"
     return f'''<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" role="img" aria-labelledby="t d">
+  <!-- &#169; 2026 Brian Mahove. All rights reserved. Copying or reuse without written permission is prohibited. ID: bm-eb8a7cb2fba7 -->
+  <metadata id="bm-eb8a7cb2fba7">&#169; 2026 Brian Mahove. All rights reserved. Copying or reuse without written permission is prohibited. ID: bm-eb8a7cb2fba7</metadata>
   <title id="t">GitHub contribution streak</title>
   <desc id="d">{total} contributions in the last year. Current streak {cur} days. Longest streak {best} days.</desc>
   <style>

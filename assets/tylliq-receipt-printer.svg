@@ -1,4 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="840" viewBox="0 0 900 840" role="img" aria-labelledby="t d">
+  <!-- &#169; 2026 Brian Mahove. All rights reserved. Copying or reuse without written permission is prohibited. ID: bm-d9b6592492c7 -->
+  <metadata id="bm-d9b6592492c7">&#169; 2026 Brian Mahove. All rights reserved. Copying or reuse without written permission is prohibited. ID: bm-d9b6592492c7</metadata>
   <title id="t">Brian Mahove - receipt of systems built</title>
   <desc id="d">An animated thermal receipt printing out of a POS printer, listing Tylliq POS, a company management system, an airtime top-up platform, a multi-branch POS, a butchery cloud POS and a fleet rental platform.</desc>
   <defs>
@@ -136,4 +138,6 @@
   <circle cx="668" cy="60" r="5" fill="#2b3644"/>
   <rect x="210" y="90" width="480" height="12" rx="6" fill="#05070a"/>
   <rect x="250" y="102" width="400" height="16" fill="url(#shade)"/>
+
+  <text x="450" y="826" text-anchor="middle" font-size="11" fill="#8b98a9" fill-opacity="0.55">&#169; Brian Mahove</text>
 </svg>

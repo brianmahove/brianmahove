@@ -1,3 +1,4 @@
+<!-- (c) 2026 Brian Mahove. All rights reserved. ID: bm-a87bab000fd1 -->
 <div align="center">
 
 <img src="assets/hero.svg" width="100%" alt="Brian Mahove: founder of Vizion Technologies and software developer, building business systems, payment platforms and mobile apps from Harare, Zimbabwe" />
@@ -169,3 +170,5 @@ Tylliq is my own point-of-sale product. Each device keeps its own local database
 [![Views Since Sep 2026](https://hits.sh/github.com/brianmahove.svg?style=flat-square&label=Views%20since%20Sep%202026&color=4DA3FF&labelColor=555555)](https://hits.sh/github.com/brianmahove/)
 
 </div>
+
+<div align="center"><sub>&copy; 2026 Brian Mahove. All rights reserved. See <a href="LICENSE">LICENSE</a>.</sub></div>
