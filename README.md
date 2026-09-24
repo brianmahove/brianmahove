@@ -67,6 +67,14 @@ These days most of my work is for businesses: systems that handle money, stock, 
 | **Fleet & Car Rental Platform** *(Vizion client)* | Vehicles, bookings, rentals, maintenance, customers, finances and HR across 11 modules | Flutter · Firebase |
 
 
+### 🔄 How Tylliq syncs
+
+<div align="center">
+
+<img src="assets/tylliq-sync.svg" width="720" alt="Diagram: three Tylliq devices each keep a local SQLite database and sync through the cloud, over the local network, or by passing a .tyq file" />
+
+</div>
+
 ### 🧾 Tylliq POS in action
 
 <div align="center">

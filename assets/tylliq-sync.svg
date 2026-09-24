@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="900" height="480" viewBox="0 0 900 480" role="img" aria-labelledby="t d">
+  <title id="t">How Tylliq syncs</title>
+  <desc id="d">Diagram of three Tylliq devices, each with its own local SQLite database, staying in sync through the cloud, over the local network phone to phone, or by passing a .tyq file. A separate license center issues and checks licence keys.</desc>
+  <defs>
+    <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.1" fill="#1c2430"/></pattern>
+    <path id="pA" d="M400,104 C400,180 185,170 185,250"/>
+<path id="pB" d="M450,104 L450,250"/>
+<path id="pC" d="M500,104 C500,180 715,170 715,250"/>
+<path id="pL" d="M550,72 L690,72"/>
+<path id="lan" d="M280,310 L355,310"/>
+<path id="file" d="M545,310 L620,310"/>
+  </defs>
+  <style>text { font-family: 'Courier New', Courier, monospace; }</style>
+  <rect width="900" height="480" rx="18" fill="#0D1117"/>
+  <rect width="900" height="480" rx="18" fill="url(#dots)"/>
+  <rect x="350" y="40" width="200" height="64" rx="14" fill="#151b24" stroke="#00FFB3" stroke-opacity="0.7" stroke-width="1.5"/><text x="450.0" y="68" text-anchor="middle" font-size="16" font-weight="700" fill="#e6edf3">Cloud sync</text><text x="450.0" y="88" text-anchor="middle" font-size="12" fill="#8b98a9">Firebase</text>
+<rect x="690" y="40" width="170" height="64" rx="14" fill="#151b24" stroke="#B48CFF" stroke-opacity="0.7" stroke-width="1.5"/><text x="775.0" y="68" text-anchor="middle" font-size="16" font-weight="700" fill="#e6edf3">License Center</text><text x="775.0" y="88" text-anchor="middle" font-size="12" fill="#8b98a9">issues + checks keys</text>
+<circle cx="46" cy="46" r="5" fill="#00FFB3"/><text x="60" y="50" font-size="13" fill="#8b98a9">cloud sync</text>
+<circle cx="46" cy="66" r="5" fill="#4DA3FF"/><text x="60" y="70" font-size="13" fill="#8b98a9">local network</text>
+<circle cx="46" cy="86" r="5" fill="#FFB84D"/><text x="60" y="90" font-size="13" fill="#8b98a9">.tyq file</text>
+<circle cx="46" cy="106" r="5" fill="#B48CFF"/><text x="60" y="110" font-size="13" fill="#8b98a9">licence check</text>
+<rect x="90" y="250" width="190" height="120" rx="16" fill="#151b24" stroke="#33404f" stroke-width="1.5"/>
+<text x="185.0" y="280" text-anchor="middle" font-size="15" font-weight="700" fill="#e6edf3">Counter phone</text>
+<text x="185.0" y="300" text-anchor="middle" font-size="11" fill="#8b98a9">sells + prints receipts</text>
+<path d="M124,326 v22 a16,6 0 0 0 32,0 v-22" fill="#0f141b" stroke="#00FFB3" stroke-opacity="0.8"/><ellipse cx="140" cy="326" rx="16" ry="6" fill="#0f141b" stroke="#00FFB3" stroke-opacity="0.8"/>
+<text x="168" y="338" font-size="12" fill="#00FFB3">SQLite</text>
+<text x="168" y="353" font-size="10" fill="#8b98a9">on-device data</text>
+<rect x="355" y="250" width="190" height="120" rx="16" fill="#151b24" stroke="#33404f" stroke-width="1.5"/>
+<text x="450.0" y="280" text-anchor="middle" font-size="15" font-weight="700" fill="#e6edf3">Main till</text>
+<text x="450.0" y="300" text-anchor="middle" font-size="11" fill="#8b98a9">tablet, full stock view</text>
+<path d="M389,326 v22 a16,6 0 0 0 32,0 v-22" fill="#0f141b" stroke="#00FFB3" stroke-opacity="0.8"/><ellipse cx="405" cy="326" rx="16" ry="6" fill="#0f141b" stroke="#00FFB3" stroke-opacity="0.8"/>
+<text x="433" y="338" font-size="12" fill="#00FFB3">SQLite</text>
+<text x="433" y="353" font-size="10" fill="#8b98a9">on-device data</text>
+<rect x="620" y="250" width="190" height="120" rx="16" fill="#151b24" stroke="#33404f" stroke-width="1.5"/>
+<text x="715.0" y="280" text-anchor="middle" font-size="15" font-weight="700" fill="#e6edf3">Stock-room phone</text>
+<text x="715.0" y="300" text-anchor="middle" font-size="11" fill="#8b98a9">counts + labels</text>
+<path d="M654,326 v22 a16,6 0 0 0 32,0 v-22" fill="#0f141b" stroke="#00FFB3" stroke-opacity="0.8"/><ellipse cx="670" cy="326" rx="16" ry="6" fill="#0f141b" stroke="#00FFB3" stroke-opacity="0.8"/>
+<text x="698" y="338" font-size="12" fill="#00FFB3">SQLite</text>
+<text x="698" y="353" font-size="10" fill="#8b98a9">on-device data</text>
+<use href="#pA" fill="none" stroke="#00FFB3" stroke-opacity="0.28" stroke-width="1.6" stroke-dasharray="4 5"/>
+<use href="#pB" fill="none" stroke="#00FFB3" stroke-opacity="0.28" stroke-width="1.6" stroke-dasharray="4 5"/>
+<use href="#pC" fill="none" stroke="#00FFB3" stroke-opacity="0.28" stroke-width="1.6" stroke-dasharray="4 5"/>
+<use href="#pL" fill="none" stroke="#B48CFF" stroke-opacity="0.35" stroke-width="1.6" stroke-dasharray="4 5"/>
+<use href="#lan" fill="none" stroke="#4DA3FF" stroke-opacity="0.45" stroke-width="2"/>
+<use href="#file" fill="none" stroke="#FFB84D" stroke-opacity="0.45" stroke-width="2" stroke-dasharray="2 5"/>
+<circle r="5" fill="#00FFB3" opacity="0.95"><animateMotion dur="3s" begin="0s" repeatCount="indefinite"><mpath href="#pA"/></animateMotion></circle>
+<circle r="5" fill="#00FFB3" opacity="0.95"><animateMotion dur="3s" begin="1.5s" repeatCount="indefinite"><mpath href="#pA"/></animateMotion></circle>
+<circle r="4" fill="#00FFB3" opacity="0.95"><animateMotion dur="3s" begin="0.75s" repeatCount="indefinite" keyPoints="1;0" keyTimes="0;1" calcMode="linear"><mpath href="#pA"/></animateMotion></circle>
+<circle r="5" fill="#00FFB3" opacity="0.95"><animateMotion dur="3s" begin="0s" repeatCount="indefinite"><mpath href="#pB"/></animateMotion></circle>
+<circle r="5" fill="#00FFB3" opacity="0.95"><animateMotion dur="3s" begin="1.5s" repeatCount="indefinite"><mpath href="#pB"/></animateMotion></circle>
+<circle r="4" fill="#00FFB3" opacity="0.95"><animateMotion dur="3s" begin="0.75s" repeatCount="indefinite" keyPoints="1;0" keyTimes="0;1" calcMode="linear"><mpath href="#pB"/></animateMotion></circle>
+<circle r="5" fill="#00FFB3" opacity="0.95"><animateMotion dur="3s" begin="0s" repeatCount="indefinite"><mpath href="#pC"/></animateMotion></circle>
+<circle r="5" fill="#00FFB3" opacity="0.95"><animateMotion dur="3s" begin="1.5s" repeatCount="indefinite"><mpath href="#pC"/></animateMotion></circle>
+<circle r="4" fill="#00FFB3" opacity="0.95"><animateMotion dur="3s" begin="0.75s" repeatCount="indefinite" keyPoints="1;0" keyTimes="0;1" calcMode="linear"><mpath href="#pC"/></animateMotion></circle>
+<circle r="5" fill="#B48CFF" opacity="0.95"><animateMotion dur="2.4s" begin="0s" repeatCount="indefinite"><mpath href="#pL"/></animateMotion></circle>
+<circle r="4" fill="#B48CFF" opacity="0.95"><animateMotion dur="2.4s" begin="1.2s" repeatCount="indefinite" keyPoints="1;0" keyTimes="0;1" calcMode="linear"><mpath href="#pL"/></animateMotion></circle>
+<circle r="5" fill="#4DA3FF" opacity="0.95"><animateMotion dur="1.6s" begin="0s" repeatCount="indefinite"><mpath href="#lan"/></animateMotion></circle>
+<circle r="5" fill="#4DA3FF" opacity="0.95"><animateMotion dur="1.6s" begin="0.8s" repeatCount="indefinite" keyPoints="1;0" keyTimes="0;1" calcMode="linear"><mpath href="#lan"/></animateMotion></circle>
+<g><animateMotion dur="3.2s" repeatCount="indefinite" keyPoints="0;1" keyTimes="0;1" calcMode="linear"><mpath href="#file"/></animateMotion><path d="M-11,-13 h14 l8,8 v18 h-22 z" fill="#1b2230" stroke="#FFB84D" stroke-width="1.5"/><path d="M3,-13 v8 h8" fill="none" stroke="#FFB84D" stroke-width="1.5"/><text x="0" y="8" text-anchor="middle" font-size="7" font-weight="700" fill="#FFB84D">.tyq</text></g>
+<text x="317" y="392" text-anchor="middle" font-size="11" fill="#4DA3FF">local network</text>
+<text x="582" y="392" text-anchor="middle" font-size="11" fill="#FFB84D">.tyq file</text>
+<text x="450" y="440" text-anchor="middle" font-size="16" font-weight="700" fill="#e6edf3">Sell first. Sync whenever.</text>
+<text x="450" y="463" text-anchor="middle" font-size="12" fill="#8b98a9">Every device keeps its own database. Only licensing needs the internet.</text>
+</svg>
