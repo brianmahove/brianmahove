@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="130" viewBox="0 0 1000 130" role="img" aria-labelledby="t d">
+  <title id="t">Quick facts</title>
+  <desc id="d">Started coding at 13. Six systems in the portfolio. Three ways Tylliq syncs. One agency founded.</desc>
+  <style>
+    text { font-family: 'Segoe UI', system-ui, -apple-system, Helvetica, Arial, sans-serif; }
+    .mono { font-family: 'Courier New', Courier, monospace; }
+    
+  </style>
+<rect width="1000" height="130" fill="none"/><rect x="20.0" y="14" width="228.0" height="102" rx="16" fill="#131a24" stroke="#26313f"/>
+<text x="134.0" y="72" text-anchor="middle" font-size="46" font-weight="800" fill="#00FFB3">13</text>
+<text x="134.0" y="98" text-anchor="middle" font-size="14" fill="#8b98a9">started coding at</text>
+<rect x="264.0" y="14" width="228.0" height="102" rx="16" fill="#131a24" stroke="#26313f"/>
+<text x="378.0" y="72" text-anchor="middle" font-size="46" font-weight="800" fill="#00FFB3">6</text>
+<text x="378.0" y="98" text-anchor="middle" font-size="14" fill="#8b98a9">systems in the portfolio</text>
+<rect x="508.0" y="14" width="228.0" height="102" rx="16" fill="#131a24" stroke="#26313f"/>
+<text x="622.0" y="72" text-anchor="middle" font-size="46" font-weight="800" fill="#00FFB3">3</text>
+<text x="622.0" y="98" text-anchor="middle" font-size="14" fill="#8b98a9">ways Tylliq syncs</text>
+<rect x="752.0" y="14" width="228.0" height="102" rx="16" fill="#131a24" stroke="#26313f"/>
+<text x="866.0" y="72" text-anchor="middle" font-size="46" font-weight="800" fill="#00FFB3">1</text>
+<text x="866.0" y="98" text-anchor="middle" font-size="14" fill="#8b98a9">agency founded</text>
+</svg>

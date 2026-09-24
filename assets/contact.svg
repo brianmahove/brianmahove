@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="240" viewBox="0 0 1000 240" role="img" aria-labelledby="t d">
+  <title id="t">Contact Brian Mahove</title>
+  <desc id="d">Need a system built for your business? POS, ERP, payments or a mobile app, or a conversation about a role. Email mahovebrian@gmail.com.</desc>
+  <style>
+    text { font-family: 'Segoe UI', system-ui, -apple-system, Helvetica, Arial, sans-serif; }
+    .mono { font-family: 'Courier New', Courier, monospace; }
+    
+    .btn { animation: glow 2.4s ease-in-out infinite; }
+    @keyframes glow { 0%,100% { opacity: .88; } 50% { opacity: 1; } }
+    @media (prefers-reduced-motion: reduce) { .btn { animation: none; } }
+    
+  </style>
+<defs><pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.1" fill="#1c2430"/></pattern></defs><clipPath id="clip"><rect width="1000" height="240" rx="20"/></clipPath><rect x="0.5" y="0.5" width="999" height="239" rx="20" fill="#0D1117" stroke="#26313f"/><rect width="1000" height="240" rx="20" fill="url(#dots)"/>
+  <defs><radialGradient id="c1"><stop offset="0" stop-color="#00FFB3" stop-opacity="0.28"/><stop offset="1" stop-color="#00FFB3" stop-opacity="0"/></radialGradient></defs>
+  <g clip-path="url(#clip)"><circle cx="850" cy="40" r="240" fill="url(#c1)"><animate attributeName="cx" values="820;890;820" dur="12s" repeatCount="indefinite"/></circle></g>
+  <text class="mono" x="70" y="68" font-size="13" letter-spacing="4" fill="#00FFB3">WORK WITH ME</text>
+  <text x="68" y="122" font-size="40" font-weight="800" fill="#e6edf3" letter-spacing="-0.5">Need a system built for your business?</text>
+  <text x="70" y="156" font-size="18" fill="#a9b6c6">POS, ERP, payments or a mobile app. Or a conversation about a role.</text>
+  <g class="btn">
+    <rect x="70" y="180" width="330" height="40" rx="20" fill="#00FFB3"/>
+    <text x="235" y="206" text-anchor="middle" font-size="16" font-weight="800" fill="#062018">mahovebrian@gmail.com</text>
+  </g>
+</svg>

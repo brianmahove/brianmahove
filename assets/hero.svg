@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="380" viewBox="0 0 1000 380" role="img" aria-labelledby="t d">
+  <title id="t">Brian Mahove</title>
+  <desc id="d">Brian Mahove, founder of Vizion Technologies and software developer at Colours Universal, building business systems, payment platforms and mobile apps from Harare, Zimbabwe.</desc>
+  <style>
+    text { font-family: 'Segoe UI', system-ui, -apple-system, Helvetica, Arial, sans-serif; }
+    .mono { font-family: 'Courier New', Courier, monospace; }
+    
+    .ph { opacity: 0; animation: cycle 16s infinite; }
+    .ph0 { animation-delay: 0s; } .ph1 { animation-delay: 4.0s; } .ph2 { animation-delay: 8.0s; } .ph3 { animation-delay: 12.0s; }
+    @keyframes cycle { 0% { opacity: 0; transform: translateY(6px); } 3% { opacity: 1; transform: translateY(0); } 22% { opacity: 1; } 25% { opacity: 0; } 100% { opacity: 0; } }
+    .caret { animation: blink 1s steps(2, start) infinite; }
+    @keyframes blink { to { visibility: hidden; } }
+    .phone { animation: bob 7s ease-in-out infinite; transform-origin: 880px 190px; }
+    @keyframes bob { 0%,100% { transform: rotate(-5deg) translateY(0); } 50% { transform: rotate(-5deg) translateY(-10px); } }
+    .pay { animation: pulse 2.2s ease-in-out infinite; }
+    @keyframes pulse { 0%,100% { opacity: .85; } 50% { opacity: 1; } }
+    @media (prefers-reduced-motion: reduce) { .phone, .pay, .caret { animation: none; } .ph { animation: none; opacity: 0; } .ph0 { opacity: 1; } }
+    
+  </style>
+<defs><pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.1" fill="#1c2430"/></pattern></defs><clipPath id="clip"><rect width="1000" height="380" rx="20"/></clipPath><rect x="0.5" y="0.5" width="999" height="379" rx="20" fill="#0D1117" stroke="#26313f"/><rect width="1000" height="380" rx="20" fill="url(#dots)"/>
+  <defs>
+    <radialGradient id="o1"><stop offset="0" stop-color="#00FFB3" stop-opacity="0.32"/><stop offset="1" stop-color="#00FFB3" stop-opacity="0"/></radialGradient>
+    <radialGradient id="o2"><stop offset="0" stop-color="#4DA3FF" stop-opacity="0.22"/><stop offset="1" stop-color="#4DA3FF" stop-opacity="0"/></radialGradient>
+    <linearGradient id="nm" x1="0" x2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#9ffbe0"/></linearGradient>
+    <linearGradient id="ph" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#232d3b"/><stop offset="1" stop-color="#151c26"/></linearGradient>
+  </defs>
+  <g clip-path="url(#clip)"><circle cx="820" cy="120" r="230" fill="url(#o1)"><animate attributeName="cx" values="790;860;790" dur="14s" repeatCount="indefinite"/></circle>
+  <circle cx="120" cy="360" r="220" fill="url(#o2)"><animate attributeName="cx" values="120;200;120" dur="17s" repeatCount="indefinite"/></circle></g>
+
+  <text class="mono" x="78" y="80" font-size="14" letter-spacing="4" fill="#00FFB3">FOUNDER  ·  DEVELOPER  ·  HARARE, ZIMBABWE</text>
+  <text x="76" y="158" font-size="72" font-weight="800" fill="url(#nm)" letter-spacing="-1">Brian Mahove</text>
+  <text x="78" y="205" font-size="22" fill="#c9d4e0">Business systems, payment platforms and mobile apps.</text>
+  <text class="mono ph ph0" x="78" y="262" font-size="21" fill="#00FFB3">&gt; Building Tylliq POS<tspan class="caret">_</tspan></text>
+<text class="mono ph ph1" x="78" y="262" font-size="21" fill="#00FFB3">&gt; ERP, POS and management systems<tspan class="caret">_</tspan></text>
+<text class="mono ph ph2" x="78" y="262" font-size="21" fill="#00FFB3">&gt; Payments and API integrations<tspan class="caret">_</tspan></text>
+<text class="mono ph ph3" x="78" y="262" font-size="21" fill="#00FFB3">&gt; Flutter, Node.js, NestJS, TypeScript<tspan class="caret">_</tspan></text>
+  <line x1="78" y1="300" x2="560" y2="300" stroke="#26313f"/>
+  <text x="78" y="332" font-size="15" fill="#8b98a9">Founder at <tspan fill="#e6edf3" font-weight="600">Vizion Technologies</tspan>   ·   Software Developer at <tspan fill="#e6edf3" font-weight="600">Colours Universal</tspan></text>
+
+  <g class="phone">
+    <rect x="792" y="52" width="176" height="290" rx="26" fill="url(#ph)" stroke="#3a4757" stroke-width="2"/>
+    <rect x="852" y="62" width="56" height="8" rx="4" fill="#0b0f15"/>
+    <text x="880" y="102" text-anchor="middle" font-size="13" font-weight="700" fill="#e6edf3" letter-spacing="2">TYLLIQ</text>
+    <rect x="810" y="120" width="140" height="10" rx="5" fill="#2a3543"/>
+    <rect x="810" y="140" width="110" height="10" rx="5" fill="#2a3543"/>
+    <rect x="810" y="160" width="128" height="10" rx="5" fill="#2a3543"/>
+    <rect x="810" y="180" width="96" height="10" rx="5" fill="#2a3543"/>
+    <line x1="810" y1="206" x2="950" y2="206" stroke="#334154" stroke-dasharray="4 4"/>
+    <text x="810" y="232" font-size="12" fill="#8b98a9">Total</text>
+    <text x="950" y="234" text-anchor="end" font-size="20" font-weight="700" fill="#e6edf3">24.50</text>
+    <rect class="pay" x="810" y="256" width="140" height="42" rx="12" fill="#00FFB3"/>
+    <text x="880" y="283" text-anchor="middle" font-size="15" font-weight="800" fill="#062018">PAY</text>
+    <circle cx="880" cy="322" r="4" fill="#2a3543"/>
+  </g>
+</svg>

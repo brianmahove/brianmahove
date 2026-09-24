@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="250" viewBox="0 0 480 250" role="img" aria-labelledby="t d">
+  <title id="t">Retail POS</title>
+  <desc id="d">Checkout, product catalogue and stock across branches, with separate views for owner, manager, stock clerk and cashier.</desc>
+  <style>
+    text { font-family: 'Segoe UI', system-ui, -apple-system, Helvetica, Arial, sans-serif; }
+    .mono { font-family: 'Courier New', Courier, monospace; }
+    
+  </style>
+<defs><linearGradient id="bar" x1="0" x2="1"><stop offset="0" stop-color="#B48CFF"/><stop offset="1" stop-color="#B48CFF" stop-opacity="0"/></linearGradient></defs>
+<rect x="1" y="1" width="478" height="248" rx="18" fill="#131a24" stroke="#26313f"/>
+<rect x="1" y="1" width="478" height="4" rx="2" fill="url(#bar)"/>
+<rect x="24" y="26" width="164.6" height="24" rx="12" fill="#B48CFF" fill-opacity="0.12" stroke="#B48CFF" stroke-opacity="0.5"/>
+<text class="mono" x="106.3" y="42" text-anchor="middle" font-size="11" font-weight="700" letter-spacing="1" fill="#B48CFF">MULTI-BRANCH RETAIL</text>
+<text x="24" y="82" font-size="21" font-weight="700" fill="#e6edf3">Retail POS</text>
+<text x="24" y="112" font-size="13.5" fill="#a9b6c6">Checkout, product catalogue and stock across branches,</text>
+<text x="24" y="132" font-size="13.5" fill="#a9b6c6">with separate views for owner, manager, stock clerk and</text>
+<text x="24" y="152" font-size="13.5" fill="#a9b6c6">cashier.</text>
+<rect x="24" y="200" width="75.19999999999999" height="28" rx="14" fill="#0d1219" stroke="#2c3848"/>
+<text class="mono" x="61.599999999999994" y="218.5" text-anchor="middle" font-size="12" fill="#e6edf3">Flutter</text>
+<rect x="107.19999999999999" y="200" width="82.8" height="28" rx="14" fill="#0d1219" stroke="#2c3848"/>
+<text class="mono" x="148.6" y="218.5" text-anchor="middle" font-size="12" fill="#e6edf3">Firebase</text>
+</svg>
