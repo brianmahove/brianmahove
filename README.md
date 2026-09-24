@@ -143,6 +143,12 @@ Tylliq is my own point-of-sale product. Each device keeps its own local database
   <img src="profile/top-langs.svg" height="180" alt="Brian's top languages" />
   <br/>
   <img src="profile/streak.svg" alt="Brian's GitHub contribution streak" />
+  <br/>
+  <img src="profile-summary-card-output/github_dark/0-profile-details.svg" width="66%" alt="Brian's GitHub profile details and contributions over the last year" />
+  <br/>
+  <img src="profile-summary-card-output/github_dark/1-repos-per-language.svg" width="32%" alt="Top languages by repository" />
+  <img src="profile-summary-card-output/github_dark/2-most-commit-language.svg" width="32%" alt="Top languages by commit" />
+  <img src="profile-summary-card-output/github_dark/4-productive-time.svg" width="32%" alt="Commits by time of day" />
 </div>
 
 ## Contact
