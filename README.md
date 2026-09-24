@@ -156,7 +156,7 @@ Tylliq is my own point-of-sale product. Each device keeps its own local database
 [![Vizion](https://img.shields.io/badge/Vizion_Technologies-%231A4F8A.svg?style=flat-square&logo=vercel&logoColor=white)](https://viziontechnologies.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brianmahove/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/brianmahove)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%2300FFB3.svg?style=flat-square&logo=firefox&logoColor=black)](https://brianmahove.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%2300FFB3.svg?style=flat-square&logo=firefox&logoColor=black)](https://brianmahove.github.io/brian-mahove-portfolio/)
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-%23FFD21E.svg?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/brianmahove)
 [![Email](https://img.shields.io/badge/Email-%23EA4335.svg?style=flat-square&logo=gmail&logoColor=white)](mailto:mahovebrian@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=brianmahove&color=00FFB3&style=flat-square&label=Visitors)](https://github.com/brianmahove)
