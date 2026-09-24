@@ -68,11 +68,16 @@ Tylliq is my own point-of-sale product. Each device keeps its own local database
 
 <br/><br/>
 
-<img src="assets/tylliq-sell.png" width="30%" alt="Tylliq sell screen" />
-&nbsp;
-<img src="assets/tylliq-stock.png" width="30%" alt="Tylliq stock screen" />
-&nbsp;
-<img src="assets/tylliq-receipt.gif" width="30%" alt="Printing a receipt with Tylliq" />
+<img src="assets/tylliq-sell.png" width="100%" alt="Tylliq sell screen: product search and barcode scan, category filters, product grid with stock levels, live cart and cash, card or mobile money payment" />
+
+<sub>Sell: scan or search, tap to add, hold a sale, pay by cash, card or mobile money.</sub>
+
+<br/>
+
+<img src="assets/tylliq-checkout.png" width="49%" alt="Tylliq review order screen with discount, amount received and automatic change calculation" />
+<img src="assets/tylliq-stock.png" width="49%" alt="Tylliq stock screen with stock take, receive shipment and expiry and batch tracker" />
+
+<sub>Review the order and get the change worked out (left). Stock take, receive shipment, expiry and batch tracking (right).</sub>
 
 </div>
 
