@@ -1,20 +1,13 @@
 <div align="center">
 
-```
-██████╗ ██████╗ ██╗ █████╗ ███╗   ██╗
-██╔══██╗██╔══██╗██║██╔══██╗████╗  ██║
-██████╔╝██████╔╝██║███████║██╔██╗ ██║
-██╔══██╗██╔══██╗██║██╔══██║██║╚██╗██║
-██████╔╝██║  ██║██║██║  ██║██║ ╚████║
-╚═════╝ ╚═╝  ╚═╝╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
-        M A H O V E
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00FFB3&height=180&section=header&text=Brian%20Mahove&fontSize=52&fontColor=ffffff&fontAlignY=38" width="100%" />
 
-### CS Graduate · AI/ML Engineer · Full-Stack & Mobile Developer
-**Building intelligent systems from Harare, Zimbabwe 🇿🇼 — since age 13.**
+### Founder, Vizion Technologies · Software Developer, Colours Universal
+**I build business systems, payment platforms and mobile apps from Harare, Zimbabwe 🇿🇼. Writing code since I was 13.**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3500&pause=800&color=00FFB3&center=true&vCenter=true&width=560&lines=Machine+Learning+%2B+Computer+Vision;Flutter+%7C+React+Native+%7C+Android;Python+%7C+TensorFlow+%7C+PyTorch;Building+AgriXpert+%F0%9F%8C%BE;Open+to+Opportunities+Worldwide)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3500&pause=800&color=00FFB3&center=true&vCenter=true&width=600&lines=Building+Tylliq+POS;ERP+%7C+POS+%7C+Management+Systems;Payments+%2B+API+Integrations;Flutter+%7C+React+%7C+Node.js+%7C+TypeScript;AI+where+it+actually+helps;Running+Vizion+Technologies)](https://git.io/typing-svg)
 
+[![Vizion](https://img.shields.io/badge/Vizion_Technologies-%231A4F8A.svg?style=flat-square&logo=vercel&logoColor=white)](https://viziontechnologies.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brianmahove/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/brianmahove)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%2300FFB3.svg?style=flat-square&logo=firefox&logoColor=black)](https://brianmahove.github.io/portfolio/)
@@ -26,123 +19,128 @@
 
 ---
 
-## ⚡ Who Am I
+## ⚡ About Me
 
 ```python
 class Brian:
-    name        = "Brian Mahove"
-    location    = "Harare, Zimbabwe 🇿🇼"
-    education   = "Computer Science Graduate"
-    started_coding_at = 13  # years old 🚀
+    name      = "Brian Mahove"
+    location  = "Harare, Zimbabwe 🇿🇼"
+    education = "BSc (Hons) Computer Science, University of Zimbabwe (2025)"
 
-    focus = [
-        "AI/ML & Computer Vision",
-        "Mobile Development (Flutter · React Native · Android)",
-        "Full-Stack Web Development",
-        "Smart Agriculture Technology",
+    roles = {
+        "Vizion Technologies": "Founder & Lead Developer",
+        "Colours Universal":   "Software Developer",
+    }
+
+    what_i_build = [
+        "ERP, POS and company management systems",
+        "Payment flows and third-party API integrations",
+        "Cross-platform mobile apps (Flutter)",
+        "AI features inside real business software",
     ]
 
-    currently_building = "AgriXpert — AI-powered crop monitoring app 🌾"
-    learning           = ["Dart", "Swift", "Kotlin", "Java (Advanced)"]
-    open_to            = "Remote • Hybrid • Relocation — Global Opportunities"
-
-    fun_fact = "Built my first mobile app at age 13. Haven't stopped since."
+    started_coding_at = 13
+    open_to = "Client projects • Remote roles • Collaborations"
 ```
+
+These days most of my work is for businesses: systems that handle money, stock, staff and approvals, and have to keep working when the internet doesn't. I run Vizion Technologies, a small software agency, and I'm building Tylliq, my own point-of-sale product.
+
+---
+
+## 🏗️ What I'm Working On
+
+| Project | What it does | Stack |
+|---|---|---|
+| **Tylliq POS** | Offline-first point of sale for small shops: sell, track stock, print receipts and labels, close the till. Each device keeps its own local database and syncs with the others through the cloud, over the local network phone-to-phone, or with a `.tyq` file. Only licensing needs the internet, and that runs through the Tylliq License Control Center I built to issue and manage licences | Flutter · Dart · SQLite (drift) · Firebase |
+| **Company Management System** *(Vizion client, in progress)* | Finance and payments, multi-level approvals, reporting engine, roles, plus a customer app. Built so new services and regions plug in through an internal API | NestJS · PostgreSQL · Flutter · React |
+| **International Airtime Top-Up Platform** *(Vizion client)* | Buy airtime for any number abroad. Card checkout, webhook-triggered delivery, idempotency guards so nobody gets charged twice, admin panel for failures and commissions | Node.js · TypeScript · Stripe · Reloadly |
+| **Multi-Branch Retail POS** | Checkout, product catalogue and stock across branches, with separate views for owner, manager, stock clerk and cashier | Flutter · Firebase |
+| **Cloud POS for Butcheries** *(Vizion client)* | Point of sale and stock for meat retail, with offline sync for patchy connections | Flutter · Firebase |
+| **Fleet & Car Rental Platform** *(Vizion client)* | Vehicles, bookings, rentals, maintenance, customers, finances and HR across 11 modules | Flutter · Firebase |
+
+
+### 🧾 Tylliq POS in action
+
+<div align="center">
+  <img src="assets/tylliq-sell.png" width="30%" alt="Tylliq sell screen" />
+  &nbsp;
+  <img src="assets/tylliq-stock.png" width="30%" alt="Tylliq stock screen" />
+  &nbsp;
+  <img src="assets/tylliq-receipt.gif" width="30%" alt="Printing a receipt with Tylliq" />
+</div>
+
+---
+
+## 🧪 Side Projects
+
+- **AgriXpert** — ML farming advisor for smallholder farmers: crop disease detection from photos, yield insights. *Python · TensorFlow · OpenCV · Flutter*
+- **Clean Slate** — browser tool that strips metadata from photos wrongly flagged as AI-generated on social media. Runs fully client-side, nothing gets uploaded.
+- **Volatility analysis bot** — reads live market data over WebSockets and runs the analysis in Python. *Experimental.*
 
 ---
 
 ## 🧠 Tech Stack
 
-### 🤖 AI / Machine Learning
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-### 📱 Mobile Development
+### Mobile
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 
-### 🌐 Web Development
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### Backend & Web
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-### 💾 Databases & Cloud
+### Data & Cloud
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-### 🛠️ Tools & DevOps
+### Payments & Integrations
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+![Meta](https://img.shields.io/badge/Meta_Graph_API-0467DF?style=for-the-badge&logo=meta&logoColor=white)
+![REST](https://img.shields.io/badge/REST_%26_Webhooks-555555?style=for-the-badge&logo=postman&logoColor=white)
+
+### AI / ML
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+### Tools
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-## 🌾 Spotlight Project — AgriXpert
-
-> *AI-powered smart farming assistant for African smallholder farmers*
-
-| Feature | Stack |
-|---|---|
-| 🌱 Crop disease detection (Computer Vision) | Python · OpenCV · TensorFlow |
-| 📱 Cross-platform mobile app | Flutter · Dart |
-| 🔗 Real-time farm data sync | Firebase · REST APIs |
-| 🧠 Yield prediction & insights | scikit-learn · Pandas |
-| 🗺️ Field mapping | GIS Integration |
-
-**Mission:** Democratize precision agriculture across Zimbabwe and beyond.
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=brianmahove&show_icons=true&theme=github_dark&count_private=true&hide_border=true&title_color=00FFB3&icon_color=00FFB3" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=brianmahove&theme=github-dark-blue&hide_border=true&ring=00FFB3&fire=00FFB3&currStreakLabel=00FFB3" />
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brianmahove&layout=compact&theme=github_dark&hide_border=true&title_color=00FFB3&langs_count=8" />
+  <img src="github-metrics.svg" alt="Brian's GitHub metrics" />
 </div>
 
 ---
 
-## 🏆 Achievements
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=brianmahove&theme=matrix&no-frame=true&row=1&column=7&margin-w=8" />
-  </a>
-</div>
-
----
-
-## 📬 Let's Build Something
+## 📬 Work With Me
 
 <div align="center">
 
-Whether it's AI, mobile, full-stack, or something at the intersection of all three — I'm interested.
+Need a system built for your business, or want to talk about a role? Get in touch.
 
-**📧 mahovebrian@gmail.com** &nbsp;|&nbsp; **🌐 [Portfolio](https://brianmahove.github.io/portfolio/)** &nbsp;|&nbsp; **💼 [LinkedIn](https://www.linkedin.com/in/brianmahove/)**
+**📧 mahovebrian@gmail.com** &nbsp;|&nbsp; **🏢 [Vizion Technologies](https://viziontechnologies.vercel.app)** &nbsp;|&nbsp; **💼 [LinkedIn](https://www.linkedin.com/in/brianmahove/)**
 
 ---
 
