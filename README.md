@@ -159,6 +159,7 @@ Tylliq is my own point-of-sale product. Each device keeps its own local database
 [![Portfolio](https://img.shields.io/badge/Portfolio-%2300FFB3.svg?style=flat-square&logo=firefox&logoColor=black)](https://brianmahove.github.io/brian-mahove-portfolio/)
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-%23FFD21E.svg?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/brianmahove)
 [![Email](https://img.shields.io/badge/Email-%23EA4335.svg?style=flat-square&logo=gmail&logoColor=white)](mailto:mahovebrian@gmail.com)
-[![Profile Views](https://hits.sh/github.com/brianmahove.svg?style=flat-square&label=Profile%20views&color=00FFB3&labelColor=555555)](https://hits.sh/github.com/brianmahove/)
+[![Total Views](https://komarev.com/ghpvc/?username=brianmahove&color=00FFB3&style=flat-square&label=Total%20views)](https://github.com/brianmahove)
+[![Views Since Sep 2026](https://hits.sh/github.com/brianmahove.svg?style=flat-square&label=Views%20since%20Sep%202026&color=4DA3FF&labelColor=555555)](https://hits.sh/github.com/brianmahove/)
 
 </div>
